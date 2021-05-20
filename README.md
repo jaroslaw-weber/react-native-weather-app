@@ -4,7 +4,7 @@ Very simple weather app.
 Made with native react.
 
 
-![screenshot](screenshot.png)
+<img src="screenshot.png" width="150">
 
 libraries:
 
