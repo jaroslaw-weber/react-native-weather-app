@@ -3,6 +3,9 @@
 Very simple weather app.
 Made with native react.
 
+
+![screenshot](screenshot.png)
+
 libraries:
 
 - tailwind-rs : css framework
